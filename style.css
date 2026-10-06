@@ -1,0 +1,40 @@
+* {
+  font-size: 19px;
+}
+
+.a1 {
+  width: 800px;
+}
+
+.a3 {
+  line-height: 2.1;
+}
+
+.a4 {
+  letter-spacing: 8px;
+}
+
+.a5 {
+  font-family: monospace;
+}
+
+.a6 {
+  text-align: right;
+}
+
+.a7 {
+  text-decoration: underline overline;
+}
+
+.a7 span {
+  text-decoration: line-through;
+}
+
+.a8 {
+  text-transform: uppercase;
+}
+
+.a9 {
+  font-size: 23px;
+  list-style-type: square;
+}
